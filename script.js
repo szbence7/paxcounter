@@ -17,7 +17,6 @@ function save() {
 }
 
 function reset() {
-    
     count = 0
     countEl.textContent = 0
     total.textContent = totalDef
